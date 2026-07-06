@@ -8,9 +8,8 @@ export default function Header() {
     <header className="site-header">
       <div className="container site-header__inner">
         <Link to="/" className="brand">
-          <span className="brand__mark">
-            The Imperial 
-          </span>
+          <span className="brand__mark">Yatra Stays</span>
+          <span className="brand__tag">Comfort in every city</span>
         </Link>
         <div className="header-stat">
           {status === 'ready' ? (
