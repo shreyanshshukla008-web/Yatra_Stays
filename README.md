@@ -1,5 +1,5 @@
 # PROJECT_MERN
-
+A website for hotel booking "YATRA STAYS"
 A React + Vite hotel listing app.
 
 ## Features
